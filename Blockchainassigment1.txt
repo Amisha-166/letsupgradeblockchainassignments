@@ -1,0 +1,48 @@
+/*
+1.What is your understanding of Blockchain?
+
+Answer:
+• Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+• It is a growing list of records, called blocks, that are linked using cryptography.
+• Each block contains a cryptographic hash of the previous block,a timestamp, and transaction data.
+• A blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.This allows the participants to verify and audit transactions independently and relatively inexpensively.
+• A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server.
+
+2.What is the Core problem Blockchain trying to solve?
+
+Answer:
+Blockchain is trying to solve problems with the Internet such as:-
+• Authenticity
+• Solving an online insecurity problem
+• Maintaining control
+• Cloud Storage
+• Identity Theft Vulnerability
+• Blockchain Prevents Piracy and Copyright Issues
+
+3.What are the few features which blockchain will give you ?
+
+Answer:
+• Cannot be Corrupted
+• Decentralized Technology
+• Enhanced Security
+• Distributed Ledgers
+• Consensus
+• Faster Settlement
+
+4.What all the things does a block contains?
+
+Answer:
+• Current Block Hash
+• Data Record of current block
+• Previous Block Hash
+• Signature
+• Mining Key
+
+5. How is the verifiability of blockchain is been achieved ?
+
+Answer:
+The same copy of data is stored distributed across many devices and if the data is changed in one place then other places in a network can be identified. Hence, the verifiability of the blockchain is achieved.
+Data = Hash1
+Hash1+New Data = Hash2
+Hash2+New Data = Hash3…..
+*/
